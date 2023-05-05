@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = alexandra.delory@kedgebs.com
+	email = gh api ...alexandra.delory@kedgebs.com
 	name = Alexandra Delory
